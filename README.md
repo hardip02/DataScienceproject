@@ -6,14 +6,14 @@ Buying a house remains one of the biggest buying decision that people make in th
 
 2) What reading will you examine to provide context and background?
 
-Reading the graphs related to sale prices will provide more context and background. There are a few variable that we will examine such as:
-Total number of bathrooms
-Whether remodelling took place
-Age of house after remodelling
-Landscape of the house, which could determine the ease in renovation
-New garage quality obtained by multiplying garage quality with number of cars the garage could fit
-Total square feet of the house
-Consolidated porch area
+Reading the graphs related to sale prices will provide more context and background. There are a few variables that we will examine such as:
+total number of bathrooms, 
+whether remodelling took place, 
+age of house after remodelling, 
+landscape of the house, 
+new garage quality obtained by multiplying garage quality with number of cars the garage could fit, 
+total square feet of the house, 
+consolidated porch area.
 
 3) What data will you use? If you are collecting new data, how will you do it?
 
