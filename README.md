@@ -1,4 +1,5 @@
 # PASH Estates Inc.
+Link to the [House Prices Kaggle Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
 1) What is the problem that you will be investigating? Why is it interesting?
 
