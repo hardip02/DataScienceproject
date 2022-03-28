@@ -17,11 +17,11 @@ consolidated porch area.
 
 3) What data will you use? If you are collecting new data, how will you do it?
 
-The dataset from Kaggle will be used. The training dataset has a total of 1460 observations with 81 variables while the test dataset has one less variable since we have excluded the predicted variable, SalePrice. These are the data that we will be using in order to 
+The dataset from Kaggle will be used. The training dataset has a total of 1460 observations with 81 variables while the test dataset has one less variable since we have excluded the predicted variable, SalePrice. These are the data that we will be using in order to examine house prices in Iowa.
 
 4) What method or algorithm are you proposing?
 
-We can use Multiple Linear Regression.
+We can use Multiple Linear Regression. It is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. Multiple linear regression is used to model the relationship between a continuous response variable and continuous or categorical explanatory variables.
 
 5) How will you evaluate your results?
 
