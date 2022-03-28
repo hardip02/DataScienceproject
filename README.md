@@ -25,5 +25,5 @@ We can use Multiple Linear Regression. It is a statistical technique that uses s
 
 5) How will you evaluate your results?
 
-Qualitatively we can expect to see higher sale prices when there are much more observations.
+Qualitatively we can expect to see higher sale prices when there are much more variable which will affect the prices in the future.
 Quantitatively we can use scatterplots to evaluate our results between the observations and sale prices.
