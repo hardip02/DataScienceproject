@@ -1,6 +1,7 @@
 # DataScienceproject
 
 What is the problem that you will be investigating? Why is it interesting?
+
 Buying a house remains one of the biggest buying decision that people make in their lifetime. It is difficult to predict the final sale price. There are people who struggle after knowing the expenses they will face in the future. This project will help with the decisions people will come up with.
 
 What reading will you examine to provide context and background?
