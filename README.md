@@ -1,4 +1,4 @@
-# DataScienceproject
+# PASH Estates Inc.
 
 1) What is the problem that you will be investigating? Why is it interesting?
 
@@ -12,12 +12,12 @@ whether remodelling took place,
 age of house after remodelling, 
 landscape of the house, 
 new garage quality obtained by multiplying garage quality with number of cars the garage could fit, 
-total square feet of the house, 
+total square feet of the house, and  
 consolidated porch area.
 
 3) What data will you use? If you are collecting new data, how will you do it?
 
-The dataset from Kaggle will be used. The training dataset has a total of 1460 observations with 81 variables while the test dataset has one less variable since we have excluded the predicted variable, SalePrice.
+The dataset from Kaggle will be used. The training dataset has a total of 1460 observations with 81 variables while the test dataset has one less variable since we have excluded the predicted variable, SalePrice. These are the data that we will be using in order to 
 
 4) What method or algorithm are you proposing?
 
