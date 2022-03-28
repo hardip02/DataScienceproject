@@ -22,6 +22,7 @@ The dataset from Kaggle will be used. The training dataset has a total of 1460 o
 4) What method or algorithm are you proposing?
 
 We can use Multiple Linear Regression. It is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. Multiple linear regression is used to model the relationship between a continuous response variable and continuous or categorical explanatory variables.
+XGBoost algorithm can be used. XGBoost is a popular and efficient open-source implementation of the gradient boosted trees algorithm. 
 
 5) How will you evaluate your results?
 
