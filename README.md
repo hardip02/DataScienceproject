@@ -30,4 +30,4 @@ XGBoost algorithm can be used. XGBoost is a popular and efficient open-source im
 Qualitatively we can expect to see higher sale prices when there are much more variable which will affect the prices in the future.
 Quantitatively we can use scatterplots and boxplots to evaluate our results between the observations and sale prices. It will give a visual representation of the dataset we have gathered.
 
-The files final report and supplementary material are posted both in the docs folder as well as outside in the Data science project branch. Also, the train.csv dataset file is uploaded. And the PASH Estates Inc pyhton notebook is also uploaded.
+The files final report and supplementary material are posted both in the docs folder as well as outside in the Data science project branch. Also, the train.csv dataset file is uploaded. And the PASH Estates Inc python notebook is also uploaded.
